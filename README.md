@@ -1,2 +1,2 @@
 # NBinder
-Presses the desired keys in turn
+Просто прожимает клавиши в нужном порядке, бесконечно.
